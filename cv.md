@@ -53,3 +53,7 @@ def is_isogram(string):
 |__Introduction to Python. Microsoft.com (EN)__ | [docs.Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)|
 |__Python for Beginners. Microsoft Developer (EN)__ | [Microsoft.Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) |
 |__Google for Education. Python (EN)__ | [Developers.Google](https://developers.google.com/edu/python) |
+
+## Languages Skills
+    **English** - **B2** (Participated in different kinds of one-week conversational courses with mostly native speakers.)
+    **Spanish** - **A2** (Self learning.)

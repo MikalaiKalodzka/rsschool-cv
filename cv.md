@@ -17,3 +17,10 @@
 	to look for some application that could make easier certain aspect of my life. Unfortunately not
 	always I had found exactly what I was looking for. Eventually an idea came to me that if I
 	not able to find what I need than I should do it myself. But first of all I have to learn how to realize it.
+
+## Skills
+
+* **Python** (fundamentals)
+* **HTML** (fundamentals)
+* **CSS** (fundamentals)
+* **Git/Github** (fundamentals)

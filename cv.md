@@ -53,8 +53,3 @@ def is_isogram(string):
 |__Introduction to Python. Microsoft.com (EN)__ | [docs.Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)|
 |__Python for Beginners. Microsoft Developer (EN)__ | [Microsoft.Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) |
 |__Google for Education. Python (EN)__ | [Developers.Google](https://developers.google.com/edu/python) |
-
-
-* **Master degree in science (Power Engineering)** - *Minsk 2016* **_BNTU_**
-* **Degree of power engineere** - *Minsk 2015* **_BNTU_**
-* **Degree of referent-interpreter of scientific and technical literature (English)** - *Minsk 2015* **_APE_**

@@ -38,3 +38,23 @@ def is_isogram(string):
                     return False
     return True
 ```
+
+## Experience
+    No official working experience. But I am eager to learn!
+    [My CV project](https://github.com/MikalaiKalodzka/rsschool-cv.git)
+
+## Education
+
+|Education, educational courses|Links|
+|---|---|
+| __Master of Science, BNTU 2016, Power Engineering faculty__ | [BNTU](http://www.bntu.by/) |
+|__Academy of Postgraduate education 2015, referent-translator of scientific and technical literature in English__ | [APE](http://www.academy.edu.by/) |
+|__Udemy: Inroduction To Python Programming - Avinash Jain (EN)__ | [Udemy](https://www.udemy.com/course/pythonforbeginnersintro/) |
+|__Introduction to Python. Microsoft.com (EN)__ | [docs.Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)|
+|__Python for Beginners. Microsoft Developer (EN)__ | [Microsoft.Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) |
+|__Google for Education. Python (EN)__ | [Developers.Google](https://developers.google.com/edu/python) |
+
+
+* **Master degree in science (Power Engineering)** - *Minsk 2016* **_BNTU_**
+* **Degree of power engineere** - *Minsk 2015* **_BNTU_**
+* **Degree of referent-interpreter of scientific and technical literature (English)** - *Minsk 2015* **_APE_**

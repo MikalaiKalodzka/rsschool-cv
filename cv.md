@@ -1,4 +1,6 @@
 # Mikalai Kalodzka
+<img src="IMG_1909-1.jpg" alt="foto" width="200px">
+
 
 ## Contact Info
 

@@ -24,3 +24,17 @@
 * **HTML** (fundamentals)
 * **CSS** (fundamentals)
 * **Git/Github** (fundamentals)
+
+## Code Examples
+```
+# function that determines whether a string that contains only letters is an isogram. Letter case is ignored.
+def is_isogram(string):
+    for letter in string:
+        count = 0
+        for i in string:
+            if i.upper() == letter.upper():
+                count += 1
+                if count > 1:
+                    return False
+    return True
+```

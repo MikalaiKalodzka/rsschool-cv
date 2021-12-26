@@ -6,6 +6,7 @@
 * **Telegram:** @k_mikalai
 * **Phone:** +375293350244
 * **Skype:** mikalai.kalodzka
+* **Discord:** mikalai_kalodzka#5884
 * **LinkedIn:** [LinkedIn link](https://www.linkedin.com/in/mikalai-kalodzka-790278210/)
 * **Github:** [Github Link](https://github.com/MikalaiKalodzka)
 

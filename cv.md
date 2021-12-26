@@ -55,5 +55,5 @@ def is_isogram(string):
 |__Google for Education. Python (EN)__ | [Developers.Google](https://developers.google.com/edu/python) |
 
 ## Languages Skills
-    **English** - **B2** (Participated in different kinds of one-week conversational courses with mostly native speakers.)
-    **Spanish** - **A2** (Self learning.)
+* **English** - **B2** (Participated in different kinds of one-week conversational courses with mostly native speakers.)
+* **Spanish** - **A2** (Self learning.)

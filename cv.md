@@ -1,5 +1,5 @@
 # Mikalai Kalodzka
-<img src="./assets/IMG_1909-1.jpg" alt="foto" width="200px">
+<img src="./assets/img/IMG_1909-1.jpg" alt="foto" width="200px">
 
 
 ## Contact Info
@@ -52,6 +52,6 @@ def is_isogram(string):
 |__Python for Beginners. Microsoft Developer (EN)__ | [Microsoft.Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) |
 |__Google for Education. Python (EN)__ | [Developers.Google](https://developers.google.com/edu/python) |
 
-## Languages Skills
+## Language Skills
 * **English** - **B2** (Participated in different kinds of one-week conversational courses with mostly native speakers.)
 * **Spanish** - **A2** (Self learning.)

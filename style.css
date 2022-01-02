@@ -1,6 +1,21 @@
+@font-face {
+    font-family: Roboto;
+     src: url("assets/fonts/Roboto-Regular.ttf");
+}
+
+* {
+    box-sizing: border-box;
+}
+
 html {
     scroll-behavior: smooth;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;   
+  }
 
 .nav {
     border: 1px solid #3e2fc0;
@@ -21,34 +36,95 @@ html {
     line-height: 50px;
 }
 
-.nav-links{
+.nav-links {
     text-decoration: none;
     transition: .3s;
     color: #829985;
+}
+
+.nav-item a:hover {
+    color: #4d2323;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: Roboto;
 }
 
 .section {
     border: 1px solid #3e2fc0;
 }
 
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
 .container {
     display: flex;
-    max-width: 1440px;
-    margin: 0 auto;
     flex-direction: row;
 }
 
 #profile {
     text-align: center;
-
+    min-width: 100%;
 }
-
 #contacts {
     justify-content: center;
     flex-direction: row;
-    max-width: 480px;
+    min-width: 40%;
     padding: 10px;
+}
 
+#summary {
+    justify-content: center;
+    padding: 10px;
+    max-width: 50%;
+}
+
+
+#skills {
+    justify-content: center;
+    padding: 10px;
+    min-width: 40%;
+}
+
+
+#code {
+    justify-content: center;
+    padding: 0 200px;
+    max-width: 50%;
+}
+
+#experience {
+    justify-content: center;
+    padding: 10px;
+    max-width: 25%;
+}
+
+
+#education {
+    justify-content: center;
+    padding: 10px;
+    max-width: 50%;
+}
+
+#language {
+    justify-content: center;
+    padding: 10px;
+    max-width: 25%;
+    text-align: left;
+}
+
+#footer {
+    align-items: flex-end;
+    justify-content: space-between;
+    margin: 0 20px;
+    height: 50px;
 }
 
 .section-title {
@@ -69,4 +145,14 @@ html {
 .table {
     font-weight: bold;
     text-decoration: #3e2fc0;
+}
+
+.link {
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+}
+
+.link:hover {
+    color: #5d7260;
 }

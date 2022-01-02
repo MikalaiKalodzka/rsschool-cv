@@ -46,10 +46,14 @@ html {
 #contacts {
     justify-content: center;
     flex-direction: row;
+    max-width: 480px;
+    padding: 10px;
+
 }
 
 .section-title {
-    justify-content: center;
+    text-align: center;
+    margin: 10px;
 }
 
 .image-container {

@@ -65,3 +65,8 @@ html {
 .list-container {
     list-style: none;
 }
+
+.table {
+    font-weight: bold;
+    text-decoration: #3e2fc0;
+}

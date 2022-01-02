@@ -3,7 +3,7 @@ html {
 }
 
 .nav {
-    
+    border: 1px solid #3e2fc0;
 }
 
 .nav-list {
@@ -25,4 +25,39 @@ html {
     text-decoration: none;
     transition: .3s;
     color: #829985;
+}
+
+.section {
+    border: 1px solid #3e2fc0;
+}
+
+.container {
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+    flex-direction: row;
+}
+
+#profile {
+    text-align: center;
+
+}
+
+#contacts {
+    justify-content: center;
+    flex-direction: row;
+}
+
+.section-title {
+    justify-content: center;
+}
+
+.image-container {
+    display: flex;
+    border: 1px solid #3e2fc0;
+    width: 80px;
+}
+
+.list-container {
+    list-style: none;
 }

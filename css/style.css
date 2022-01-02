@@ -14,11 +14,15 @@ html {
 body {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;   
+    justify-content: space-between;          
   }
 
-.nav {
-    border: 1px solid #3e2fc0;
+
+/*NAVIGATION CONTENTS*/
+
+  .nav {
+    border-bottom: 2px solid;
+    background-color: #c8d8e4;
 }
 
 .nav-list {
@@ -26,7 +30,7 @@ body {
     justify-content: flex-end;
     align-items: center;
     align-content: space-between;
-    font-size: 16px;
+    font-size: 20px;
     list-style: none;
     text-decoration: none;
 }
@@ -39,23 +43,35 @@ body {
 .nav-links {
     text-decoration: none;
     transition: .3s;
-    color: #829985;
+    color: #647265;
 }
 
 .nav-item a:hover {
     color: #4d2323;
 }
 
+
+/*SECTION and CONTAINER CONTENTS*/
+
+
 .main-container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
+    background-color:#fef9f8 ;
     font-family: Roboto;
 }
 
 .section {
-    border: 1px solid #3e2fc0;
+    border-bottom: 1px solid;
+    font-size: 18px;
+}
+
+
+.section-title {
+    text-align: center;
+    margin: 10px;
 }
 
 @media (max-width: 768px) {
@@ -69,9 +85,24 @@ body {
     flex-direction: row;
 }
 
+
+.image-container {
+    display: flex;
+    border: 1px solid #3e2fc0;
+    margin: 0 20px;
+ }
+
+.list-container {
+    list-style: none;
+}
+
+/*SELECTORS*/
+
 #profile {
     text-align: center;
     min-width: 100%;
+    font-size: 24px;
+    border-bottom: 1px solid;
 }
 #contacts {
     justify-content: center;
@@ -127,25 +158,7 @@ body {
     height: 50px;
 }
 
-.section-title {
-    text-align: center;
-    margin: 10px;
-}
-
-.image-container {
-    display: flex;
-    border: 1px solid #3e2fc0;
-    width: 80px;
-}
-
-.list-container {
-    list-style: none;
-}
-
-.table {
-    font-weight: bold;
-    text-decoration: #3e2fc0;
-}
+/*LINKS*/
 
 .link {
     text-decoration: none;
@@ -156,3 +169,18 @@ body {
 .link:hover {
     color: #5d7260;
 }
+
+/*TABLE CONTENT*/
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 16px;
+  }
+  

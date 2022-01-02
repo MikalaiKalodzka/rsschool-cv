@@ -1,5 +1,5 @@
 # Mikalai Kalodzka
-<img src="IMG_1909-1.jpg" alt="foto" width="200px">
+<img src="./assets/img/IMG_1909-1.jpg" alt="foto" width="200px">
 
 
 ## Contact Info
@@ -14,7 +14,7 @@
 
 ## About myself
 
-**My primary goal is to become Juniour Developer by the end of the next year. I am interested in developing the\necessary set of skills in order to achive my goal. My main interest direction is front-end\development. The reason why I am interested in this kind of development is simple: many times I have had\to look for some application that could make easier certain aspect of my life. Unfortunately not\always I had found exactly what I was looking for. Eventually an idea came to me that if I\not able to find what I need than I should do it myself. But first of all I have to learn how to realize it.**
+**My primary goal is to become Juniour Developer by the end of the next year. I am interested in developing the necessary set of skills in order to achive my goal. My main interest direction is front-end development. The reason why I am interested in this kind of development is simple: many times I have had to look for some application that could make easier certain aspect of my life. Unfortunately not always I had found exactly what I was looking for. Eventually an idea came to me that if I not able to find what I need than I should do it myself. But first of all I have to learn how to realize it.**
 
 ## Skills
 
@@ -52,6 +52,6 @@ def is_isogram(string):
 |__Python for Beginners. Microsoft Developer (EN)__ | [Microsoft.Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) |
 |__Google for Education. Python (EN)__ | [Developers.Google](https://developers.google.com/edu/python) |
 
-## Languages Skills
+## Language Skills
 * **English** - **B2** (Participated in different kinds of one-week conversational courses with mostly native speakers.)
 * **Spanish** - **A2** (Self learning.)
